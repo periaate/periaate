@@ -1,1 +1,1 @@
-![alt text](github.com/periaate/periaate/t.png)
+![alt text](https://raw.githubusercontent.com/periaate/periaate/main/t.png)
