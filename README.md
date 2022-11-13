@@ -1,1 +1,1 @@
-![alt text](https://raw.githubusercontent.com/periaate/periaate/main/t.png)
+Periaate, the Finnish word for principle.
