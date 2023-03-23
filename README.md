@@ -1,1 +1,1 @@
-Periaate, the Finnish word for principle.
+I like Go.
