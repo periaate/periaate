@@ -3,7 +3,8 @@ _**"Data dominates. If you've chosen the right data structures and organized thi
 Go programmer of 5 years with no plans of stopping!
 
 ### Notable Repositories
-- **[PartDB](https://github.com/periaate/partdb)**  — Bipartite graph-based KV database.
+
+- **[PartDB](https://github.com/periaate/partdb)**  — Bipartite graph based KV database.
 - **[Dstruct](https://github.com/periaate/dstruct)** — Data structure and algorithm implementations, comparisons, and experimentation.
 - **[Dex](https://github.com/periaate/dex)** — Exprimental functional data flow programming language.
 - **[Media](https://github.com/periaate/media)** — Perceptual hashing and thumbnails for images and videos.
@@ -18,6 +19,7 @@ Go programmer of 5 years with no plans of stopping!
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
 ##### Tools
+<p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
@@ -27,7 +29,6 @@ Go programmer of 5 years with no plans of stopping!
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-
 
   </p>
   
