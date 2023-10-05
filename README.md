@@ -8,7 +8,6 @@ Go programmer of 5 years with no plans of stopping!
 - **[Dstruct](https://github.com/periaate/dstruct)** — Data structure and algorithm implementations, comparisons, and experimentation.
 - **[Dex](https://github.com/periaate/dex)** — Exprimental functional data flow programming language.
 - **[Media](https://github.com/periaate/media)** — Perceptual hashing and thumbnails for images and videos.
-- **[Fser](https://github.com/periaate/fser)** — An abstract and generic file system browser.
 
 ##### Languages
 <p align="left">
