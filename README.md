@@ -5,6 +5,7 @@ Go programmer of 5 years with no plans of stopping!
 ### Notable Repositories
 
 - **[PartDB](https://github.com/periaate/partdb)**  — Bipartite graph based KV database.
+- **[ls-go](https://github.com/periaate/ls-go)** — Filesystem listing tool with simple pattern matching.
 - **[Dstruct](https://github.com/periaate/dstruct)** — Data structure and algorithm implementations, comparisons, and experimentation.
 - **[Dex](https://github.com/periaate/dex)** — Exprimental functional data flow programming language.
 - **[Media](https://github.com/periaate/media)** — Perceptual hashing and thumbnails for images and videos.
