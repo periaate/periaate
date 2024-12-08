@@ -1,12 +1,11 @@
-# Hii, I'm Daniel!
+# Daniel
+I develop.
 
-I like writing software! Web development, CLI tooling, libraries, it's all fun!
+## Repositories
+**[:cherry_blossom: blume](https://github.com/periaate/blume)** is a composable wrapper for Go and Go's standard libraries, providing an alternative, functional approach to writing Go. All of my personal projects are built on top of blume.
 
-If it is simple or intuitive to think of, it should be simple and intuitive to do. This precept guides most of my approach to development.
+**[:scroll: ftmeta](https://github.com/periaate/ftmeta)** is a metatemplating language and code generation tool. All of my README's, this one included, are programmatically generated using ftmeta from fragments of md.
 
-## Repos!
-**[:cherry_blossom: blume](../../../blume)** has a handful of libraries I use in practically all of my other projects. It came to be after I made and tried to maintain 50 something CLI tools at once. I found dozens of common patterns, which blume provides abstractions over.
+**[:open_file_folder: blob](https://github.com/periaate/blob)** is a blob storage implementation, using HTTP `Content-Type` headers to provide a simple, yet powerful utility for storage needs in microservice or networked environments.
 
-**[:card_index_dividers: list](../../../list)** is a replacement for a handful of core utils, from `ls`, `find`, to `head`, and `tail`. I have been using this as my "daily driver" for nearly a year now. `list` provides a natural language like DSL query language. Great performance, beating both GNU, BusyBox, and various others (namely in massive directories).
-
-**[:spider_web: wand](../../../wand)** is a dynamically configured reverse proxy with flexible access control and SNI. It is focused on ease of use, especially for hosting things for oneself, or for testing things such as webhooks during development.
+**[:closed_lock_with_key: fwauth](https://github.com/periaate/auth/tree/main/fwauth)** is a forward auth implementation of [auth](https://github.com/periaate/auth) with persistence implemented with [blob](https://github.com/periaate/blob).
